@@ -39,7 +39,7 @@ To run the utility on your system, follow these steps:
 2. Ensure Python is installed and libraries are set up.
 3. Run the script as follows:
    ```bash
-   python your_script_name.py
+   python display_scrapper.py
    ```
 
 # Usage
